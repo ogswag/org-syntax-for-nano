@@ -2,7 +2,7 @@
 
 I made this because I needed it. I'm sharing it with the world, so everyone can struggle less.
 
-Save as: `/usr/share/nano/org.nanorc`, then add to `/etc/nanorc` or `~/.nanorc`:
+Save as: `/usr/share/nano/org.nanorc`, then add to `~/.config/nano/nanorc`:
 ```conf
 include "/usr/share/nano/org.nanorc"
 ```
