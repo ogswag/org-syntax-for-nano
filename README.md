@@ -2,4 +2,9 @@
 
 I made this because I needed it. I'm sharing it with the world, so everyone can struggle less.
 
+Save as: `/usr/share/nano/org.nanorc`, then add to `/etc/nanorc` or `~/.nanorc`:
+```conf
+include "/usr/share/nano/org.nanorc"
+```
+
 P.S. I really don't like using GNU Nano, but sometimes life makes me. If you're reading this it's probably a good idea to use Micro, Vim, Emacs, or another more powerful text editor.
